@@ -1,10 +1,10 @@
 # Data Analysis of ChicagoCrimes
 
-Problem Statement: Data Analysis on an extensive dataset of crimes in Chicago (2005-2016) using Dask
+**Problem Statement:** Data Analysis on an extensive dataset of crimes in Chicago (2005-2016) using Dask
 
-Libraries Used: Mainly Dask, seaborn, matplotlib, folium
+**Libraries Used:** Mainly Dask, seaborn, matplotlib, folium
 
-Description: This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2005-2016. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. In order to protect the privacy of crime victims, addresses are shown at the block level only and specific locations are not identified.
+**Description:** This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2005-2016. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. In order to protect the privacy of crime victims, addresses are shown at the block level only and specific locations are not identified.
 
 **Findings:**
 
